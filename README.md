@@ -3,7 +3,6 @@
 > 台股月營收驚喜策略研究 — 從市場結構假說到 execution-aware validation
 
 **作者:** 劉晏禎 (Liu Yen-Zhen) — miles891002@gmail.com
-**版本:** V6 (2026-05-26)
 **性質:** 研究 / paper-trading 專案，非實盤交易系統，非投資建議
 
 ---
@@ -46,13 +45,8 @@
 ## 主要作品集文件
 
 完整作品集在 [`portfolio_project/`](portfolio_project/) 下：
-
-### 中文履歷 / 面試用（V6 PRO）
-
-- [`Taiwan_Monthly_Revenue_Strategy_Resume_Version_ZH_PRO_V6.pdf`](portfolio_project/Taiwan_Monthly_Revenue_Strategy_Resume_Version_ZH_PRO_V6.pdf) — **履歷附件 PDF**，封面 KPI、章節敘事、12 張圖表、誠實結論
-- [`Taiwan_Monthly_Revenue_Strategy_Talking_Guide_ZH_PRO_V6.pdf`](portfolio_project/Taiwan_Monthly_Revenue_Strategy_Talking_Guide_ZH_PRO_V6.pdf) — **面試講稿 PDF**，含 30 秒 / 3 分鐘版本與 9 題 QnA（含 4 題硬核質疑：look-ahead / survivorship / capacity / sector regime）
-- 同名 `.docx` 各一份（可編輯）
-
+- [`Taiwan_Monthly_Revenue_Strategy_Resume_Version_ZH_PRO_V6.pdf`](portfolio_project/Taiwan_Monthly_Revenue_Strategy_Resume_Version_ZH_PRO_V6.pdf) — **履歷附件 PDF**，封面 KPI、章節敘事、12 張圖表
+- 
 ### 研究紀錄與 markdown 文件
 
 | 檔案 | 內容 |
