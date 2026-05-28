@@ -7,7 +7,7 @@
 
 ---
 
-## 一句話介紹
+## 研究介紹
 
 研究台灣上市櫃公司「月營收公布制度」是否在公告後 10–20 個交易日造成可觀察的短線 post-disclosure drift，並用業界標準的 robustness gates 檢查策略是否值得進入 paper trading。
 
