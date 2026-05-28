@@ -80,7 +80,7 @@
 - **Sector concentration**：電子 / 半導體供應鏈依賴明顯，定位需限縮
 - **Execution realism**：開盤跳空、漲停 non-fill、流動性容量需 paper trading 驗證
 
-對外建議說法：
+小結：
 
 > 一個台股月營收 surprise 的 portfolio-grade quant research project，候選策略具有吸引人的 proxy 結果，但仍需 exact announcement timestamps、強化 universe 控制、execution simulation 與 paper-trading 驗證後，才可能宣稱接近實盤。
 
