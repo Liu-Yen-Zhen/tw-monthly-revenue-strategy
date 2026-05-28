@@ -46,7 +46,7 @@
 
 完整作品集在 [`portfolio_project/`](portfolio_project/) 下：
 - [`Taiwan_Monthly_Revenue_Strategy_Resume_Version_ZH_PRO_V6.pdf`](portfolio_project/Taiwan_Monthly_Revenue_Strategy_Resume_Version_ZH_PRO_V6.pdf) — **履歷附件 PDF**，封面 KPI、章節敘事、12 張圖表
-- 
+
 ### 研究紀錄與 markdown 文件
 
 | 檔案 | 內容 |
